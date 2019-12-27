@@ -65,7 +65,7 @@ header {
 	color:white;
 	border-radius: 7px;
 	margin-top: 42px;
-	box-shadow:  0 0 10px #999999;
+	box-shadow:  0 0 20px #999999;
 	transition: 0.4s ease-in-out;
 }
 .btn:hover {
@@ -81,7 +81,7 @@ header {
 	border: 1px solid #15a4fa;
 	border-radius: 25px;
 	text-align: center;
-	box-shadow:  0 0 10px #999999;
+	box-shadow:  0 0 20px #999999;
 	transition: 0.4s ease-in-out;
 }
 .btn-border:hover {
